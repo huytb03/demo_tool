@@ -1,0 +1,7 @@
+{
+    "threads": 50,
+    "is_do_task": true,
+    "is_buy_card": true,
+    "is_upgrade_card": true,
+    "wait_time": 90
+}
